@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+* 参考：http://www.hangge.com/blog/cache/detail_1719.html
+
 ### 解构（Destructuring）
 ES6 允许按照一定模式，从数组和对象中提取值，对变量进行赋值，这被称为解构（Destructuring）。
 
